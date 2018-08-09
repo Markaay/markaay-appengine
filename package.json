@@ -1,0 +1,27 @@
+{
+  "name": "markaay-appengine",
+  "version": "1.0.0",
+  "description": "markaay-appengine test",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Markaay/markaay-appengine.git"
+  },
+  "keywords": [
+    "markaay",
+    "app",
+    "engine"
+  ],
+  "author": "Markaay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Markaay/markaay-appengine/issues"
+  },
+  "homepage": "https://github.com/Markaay/markaay-appengine#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
